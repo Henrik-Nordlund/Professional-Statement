@@ -1,6 +1,6 @@
 # Professional statement
 
-*Strengths:*
+**Strengths:**
 
 I am proud of my analytical ability and of being quite intuitive. I like working with technology and analysing complex and interesting problems. :) I can bring programming skills to bear for you, including Python.
 
