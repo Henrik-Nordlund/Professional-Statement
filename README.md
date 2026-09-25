@@ -1,4 +1,4 @@
-# Professional statement (English)
+# Professional statement
 
 *Strengths:*
 
