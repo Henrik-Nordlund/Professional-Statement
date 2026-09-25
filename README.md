@@ -22,12 +22,12 @@ Trustworthiness is another thing that I bring to the cybersecurity profession. I
 
 Resilience is also important to mention, I think. I have worked in dynamic fields before where things and circumstances change — and I change with them and adapt my approach.
 
-**Interest in Cybersecurity Profession:**
+**Interest in the Cybersecurity Profession:**
 
 There is so much that interests me about this field! It has everything, from uncovering vulnerabilities to learning new things to helping people feel safe about their integrity and their data. It is always a new puzzle to solve. Social engineering also intrigues me. Those threat actors can be skilled.
 
 **How My Strengths, Values, and Interest Align with Organizational Security Goals:**
 
-Being analytically minded and diligent enables me to identify vulnerabilities and devise proactive security measures. Being able to write Python scripts is a useful skill to bring because it has the potential to save a lot of time on tedious and unnecessary tasks, for example by helping analyse information and reduce false positives from security tools.
+Being analytically minded and diligent enables me to identify vulnerabilities and devise proactive security measures. Being able to write Python scripts is a useful skill to bring because it has the potential to save a lot of time on tedious and unnecessary tasks, for example by helping analyze information and reduce false positives from security tools.
 
 My core values of integrity, trustworthiness, and resilience should be a good fit for an organization whose security objective is to maintain the confidentiality, integrity, and availability of data — as well as for being a good and appreciated team member. And I know from experience that a willingness to always be competent is much appreciated by customers and colleagues alike.
