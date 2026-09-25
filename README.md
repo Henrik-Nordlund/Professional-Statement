@@ -4,13 +4,13 @@
 
 I am proud of my analytical ability and of being quite intuitive. I like working with technology and analysing complex and interesting problems. :) I can bring programming skills to bear for you, including Python.
 
-I have worked in both technical and non-technical jobs in my life, across different industries, and I believe that this has helped me better understand different people and talk with them in their own “language.” You are going to be a better communicator, even as a technical person or cybersecurity professional, if you know just a little bit of business economics, sales and, of course, marketing — in addition to the technical demands of your own job — and can adapt your message as needed and wanted. I have authored technical reports for customers based on this experience — choose yourself how much detail you want to go into. Presented in a structured manner.
+In my life, I have worked in both technical and non-technical jobs across different industries, and I believe that this has helped me better understand different people and sometime even talk with them in their own “language.” You are going to be a better communicator, even as a technical person or cybersecurity professional, if you know just a little bit of business economics, sales and, of course, marketing — in addition to the technical requirements of your own job — and can adapt your message as needed and wanted. I have authored or co-authored many technical reports for customers coming from this understanding — present the material in a structured manner, and let you you as reader choose yourself how much detail you want to go into.
 
 Speaking of which, attention to detail and the ability to focus are other things that come naturally to me.
 
-Working as an engineer and in startups also taught me that priority No. 1 is to deliver a solution ASAP with the information you have — and from there you can work towards perfecting it. It could be just a piece of paper for now.
+Working as an engineer and in startups also taught me that priority No. 1 is always to deliver a solution ASAP with the information you have right and the tools right now — and from there you can work towards perfecting it. It could be just a piece of paper for now.
 
-I take pride in always being professional.
+I also take pride in always being professional.
 
 **Values:**
 
